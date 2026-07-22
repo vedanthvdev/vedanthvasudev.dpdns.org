@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vedanthvasudev.dpdns.org/sitemap.xml
